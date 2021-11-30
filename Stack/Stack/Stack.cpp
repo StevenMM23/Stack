@@ -1,3 +1,10 @@
+// Equipo:
+//      Alex        Bujosa          1098913
+//      Jerry       Rivas           1089317
+//      Sebastian   Henriquez       1101507
+//      Ismael      Dicent          1100368
+//      Steven      Martinez        1101817
+
 #include <iostream>
 using namespace std;
 
